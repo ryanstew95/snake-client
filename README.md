@@ -18,7 +18,7 @@ This game is inspired by the game Snek created by Tania Rascia. The server code 
 
 <img width="1470" alt="snek_game" src="https://github.com/ryanstew95/snake-client/assets/127888213/06408074-4212-4f39-a8dd-c14d73dbd336">
 
-Instructions
+## Instructions
 
 -Enter these commands in your terminal to start up server side
 `git clone https://github.com/lighthouse-labs/snek-multiplayer.git`
