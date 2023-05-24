@@ -20,20 +20,44 @@ This game is inspired by the game Snek created by Tania Rascia. The server code 
 
 ## Instructions
 
+
 -Enter these commands in your terminal to start up server side
+
 `git clone https://github.com/lighthouse-labs/snek-multiplayer.git`
+
 `cd snek-multiplayer`
+
 `npm install`
+
 `npm run play`
+
 -Run the development snake client using the node `play.js` command.
+
+
 -Use your `WASD` keys to navigate your snake up, down, left, or right.
+
+
 -Use your numbered keys `1, 2, 3, 4, 5` to send banter messages when playing with other players.
+
   `1`: "Good Move!",
+  
   `2`: "HAHA you died!",
+  
   `3`: "I'm in the lead",
+  
   `4`: "GG!",
+  
   `5`: "Hello"
+  
 -Eat the red dots to grow your snake and gain points.
+
+
 -Avoid colliding into the walls or into your own tail, otherwise, it's game over.
+
+
 -Press `CTRL + C` to quit the game.
+
+
 -If you get game over you need to quit `CTRL + C` and re-enter `play.js`.
+
+
